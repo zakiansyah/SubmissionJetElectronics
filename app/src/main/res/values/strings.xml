@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SubmissionJetElectronics</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_cart">Keranjang</string>
+    <string name="menu_profile">Profile</string>
+    <string name="price">Rp. %d</string>
+    <string name="minus_symbol">—</string>
+    <string name="plus_symbol">＋</string>
+    <string name="add_to_cart">Tambah ke Keranjang : Rp. %d</string>
+    <string name="total_order">Total pesanan : Rp. %d</string>
+    <string name="back">Back</string>
+    <string name="list_barang">List Barang</string>
+    <string name="share_message">Apakah anda mau membagikan pengalaman belanja anda?</string>
+</resources>
